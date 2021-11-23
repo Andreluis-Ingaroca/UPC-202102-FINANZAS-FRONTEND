@@ -1,4 +1,4 @@
-# finanzas2_app
+# FINANZAS_APP
 
 ## Project setup
 ```
